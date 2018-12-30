@@ -17,7 +17,8 @@ I created this small arduino sketch for controlling wireless LED Xmas Tree candl
 
 ## Requirements (Software)
 
-* [Arduino IDE] (http://arduino.cc)
+* [Arduino IDE](http://arduino.cc)
+* [ESP8266 Library for Arduino IDE](https://github.com/esp8266/Arduino)
 * [IRremote library for ESP8266](https://github.com/markszabo/IRremoteESP8266)
 * [FauxmoESP](https://bitbucket.org/xoseperez/fauxmoesp)
 
